@@ -26,5 +26,18 @@
       "analysis"
     ],
     "created_at": "2026-03-26T08:50:22.222Z"
+  },
+  {
+    "id": "ba_asset_af0e66be2414e86f",
+    "name": "波特五力分析",
+    "description": "行业竞争态势分析，包含供应商议价能力、购买者议价能力、新进入者威胁、替代品威胁、现有竞争者",
+    "author": "test",
+    "industry": "general",
+    "methodology": "",
+    "tags": [
+      "competitive",
+      "industry"
+    ],
+    "created_at": "2026-03-26T09:04:40.062Z"
   }
 ]
