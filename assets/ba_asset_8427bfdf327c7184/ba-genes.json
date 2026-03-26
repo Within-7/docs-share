@@ -1,0 +1,120 @@
+[
+  {
+    "type": "Gene",
+    "id": "gene_swot_analysis",
+    "name": "SWOT分析框架",
+    "category": "analysis_framework",
+    "description": "用于市场竞争分析的经典框架，识别优势、劣势、机会和威胁",
+    "methodology": [
+      "识别内部优势（Strengths）",
+      "识别内部劣势（Weaknesses）",
+      "识别外部机会（Opportunities）",
+      "识别外部威胁（Threats）",
+      "交叉分析制定策略"
+    ],
+    "applicableScenarios": ["市场分析", "竞争分析", "战略规划", "产品定位"],
+    "dataRequirements": ["市场数据", "竞争数据", "内部资源数据"],
+    "outputFormat": "SWOT矩阵",
+    "signalsMatch": ["good_framework", "effective_model"],
+    "tags": ["框架", "分析", "战略"],
+    "successRate": 0.85,
+    "usageCount": 0,
+    "createdAt": "2026-03-22T00:00:00.000Z",
+    "updatedAt": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "type": "Gene",
+    "id": "gene_porter_five_forces",
+    "name": "波特五力分析",
+    "category": "analysis_framework",
+    "description": "分析行业竞争态势的经典框架",
+    "methodology": [
+      "分析供应商议价能力",
+      "分析购买者议价能力",
+      "分析新进入者威胁",
+      "分析替代品威胁",
+      "分析现有竞争者 rivalry"
+    ],
+    "applicableScenarios": ["行业分析", "竞争分析", "市场进入评估"],
+    "dataRequirements": ["行业数据", "竞争者数据", "供应链数据"],
+    "outputFormat": "五力分析图",
+    "signalsMatch": ["good_framework", "effective_model"],
+    "tags": ["框架", "竞争", "行业"],
+    "successRate": 0.8,
+    "usageCount": 0,
+    "createdAt": "2026-03-22T00:00:00.000Z",
+    "updatedAt": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "type": "Gene",
+    "id": "gene_business_model_canvas",
+    "name": "商业模式画布",
+    "category": "analysis_framework",
+    "description": "用于设计和分析商业模式的可视化工具",
+    "methodology": [
+      "定义价值主张",
+      "识别客户细分",
+      "规划渠道通路",
+      "建立客户关系",
+      "分析收入来源",
+      "梳理核心资源",
+      "设计关键活动",
+      "构建合作伙伴",
+      "计算成本结构"
+    ],
+    "applicableScenarios": ["商业模式设计", "创业分析", "产品规划"],
+    "dataRequirements": ["客户数据", "市场数据", "财务数据"],
+    "outputFormat": "商业模式画布",
+    "signalsMatch": ["good_framework", "effective_model"],
+    "tags": ["框架", "商业模式", "创新"],
+    "successRate": 0.9,
+    "usageCount": 0,
+    "createdAt": "2026-03-22T00:00:00.000Z",
+    "updatedAt": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "type": "Gene",
+    "id": "gene_pest_analysis",
+    "name": "PEST分析",
+    "category": "analysis_framework",
+    "description": "分析宏观环境因素的框架",
+    "methodology": [
+      "分析政治因素（Political）",
+      "分析经济因素（Economic）",
+      "分析社会因素（Social）",
+      "分析技术因素（Technological）"
+    ],
+    "applicableScenarios": ["宏观环境分析", "市场进入", "战略规划"],
+    "dataRequirements": ["政策数据", "经济数据", "社会趋势", "技术发展"],
+    "outputFormat": "PEST分析表",
+    "signalsMatch": ["good_framework", "effective_model"],
+    "tags": ["框架", "宏观", "环境"],
+    "successRate": 0.75,
+    "usageCount": 0,
+    "createdAt": "2026-03-22T00:00:00.000Z",
+    "updatedAt": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "type": "Gene",
+    "id": "gene_market_sizing",
+    "name": "市场规模估算",
+    "category": "analysis_method",
+    "description": "使用TAM/SAM/SOM方法估算市场规模",
+    "methodology": [
+      "定义目标市场范围",
+      "估算总体市场规模（TAM）",
+      "估算可服务市场（SAM）",
+      "估算可获得市场（SOM）",
+      "验证和调整估算"
+    ],
+    "applicableScenarios": ["市场分析", "投资决策", "业务规划"],
+    "dataRequirements": ["行业数据", "人口数据", "消费数据"],
+    "outputFormat": "市场规模报告",
+    "signalsMatch": ["good_framework", "effective_model"],
+    "tags": ["方法", "市场", "估算"],
+    "successRate": 0.8,
+    "usageCount": 0,
+    "createdAt": "2026-03-22T00:00:00.000Z",
+    "updatedAt": "2026-03-22T00:00:00.000Z"
+  }
+]

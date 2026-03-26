@@ -1,0 +1,25 @@
+{
+  "id": "ba_asset_8427bfdf327c7184",
+  "name": "PEST分析框架",
+  "description": "PEST宏观环境分析方法，包含政治/经济/社会/技术四个维度",
+  "version": "1.0.0",
+  "author": "ba-evolver-test",
+  "industry": "general",
+  "methodology": "",
+  "created_at": "2026-03-26T08:50:22.222Z",
+  "tags": [
+    "pest",
+    "analysis"
+  ],
+  "files": [
+    {
+      "name": "ba-genes.json",
+      "size": 4366
+    },
+    {
+      "name": "ba-capsules.json",
+      "size": 3
+    }
+  ],
+  "status": "active"
+}

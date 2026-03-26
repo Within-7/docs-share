@@ -13,5 +13,18 @@
       "framework"
     ],
     "created_at": "2026-03-26T08:43:35.259Z"
+  },
+  {
+    "id": "ba_asset_8427bfdf327c7184",
+    "name": "PEST分析框架",
+    "description": "PEST宏观环境分析方法，包含政治/经济/社会/技术四个维度",
+    "author": "ba-evolver-test",
+    "industry": "general",
+    "methodology": "",
+    "tags": [
+      "pest",
+      "analysis"
+    ],
+    "created_at": "2026-03-26T08:50:22.222Z"
   }
 ]
