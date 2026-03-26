@@ -1,0 +1,27 @@
+{
+  "id": "ba_asset_55d7a59319910757",
+  "name": "SWOT市场分析资产",
+  "description": "包含SWOT框架、数据采集方法、常见错误避坑指南",
+  "version": "1.0.0",
+  "author": "ba-evolver-test",
+  "industry": "market",
+  "methodology": "",
+  "created_at": "2026-03-26T08:43:35.259Z",
+  "tags": [
+    "market",
+    "strategy",
+    "swot",
+    "framework"
+  ],
+  "files": [
+    {
+      "name": "ba-genes.json",
+      "size": 4366
+    },
+    {
+      "name": "ba-capsules.json",
+      "size": 3
+    }
+  ],
+  "status": "active"
+}
