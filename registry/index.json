@@ -39,5 +39,19 @@
       "industry"
     ],
     "created_at": "2026-03-26T09:04:40.062Z"
+  },
+  {
+    "id": "ba_asset_3591448f5877ae67",
+    "name": "BA Evolver 开发进化方法论资产",
+    "description": "从 BA Evolver 自身开发过程中提取的增量分析、UTF-8 陷阱、多仓库隔离等方法论基因，包含验证驱动开发流程",
+    "author": "ba-evolver-system",
+    "industry": "tech",
+    "methodology": "",
+    "tags": [
+      "development",
+      "methodology",
+      "ba-evolver"
+    ],
+    "created_at": "2026-03-26T09:24:37.646Z"
   }
 ]
